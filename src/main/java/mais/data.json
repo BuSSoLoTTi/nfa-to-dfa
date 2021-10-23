@@ -1,0 +1,15 @@
+{
+  "A": {
+    "init": true,
+    "final": false,
+    "0": "A",
+    "1": "B"
+  },
+  "B": {
+    "init": false,
+    "final": true,
+    "0": "A",
+    "1": "B"
+  }
+}
+
